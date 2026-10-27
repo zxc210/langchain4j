@@ -1,0 +1,28 @@
+langchain4j-agentic/src/main/java/dev/langchain4j/agentic/scope/DefaultAgenticScope.java
+  s_c5dd2499ac8654::t_2c5af76e7d685c 22
+  s_c5dd2499ac8654::t_d4e664fec2bae7 372,375-382
+  s_c5dd2499ac8654::t_af359c749fc28e 358
+  s_c5dd2499ac8654::t_d735da78aec601 373-374
+langchain4j-agentic/src/main/java/dev/langchain4j/agentic/internal/UserMessageTransformer.java
+  s_c5dd2499ac8654::t_c3afca646108f7 36-38
+  s_c5dd2499ac8654::t_8048ae8cdcbb78 3-4,6-7,10,22,35,39-54
+langchain4j-agentic/src/test/java/dev/langchain4j/agentic/MultimodalAgentContextTest.java
+  s_c5dd2499ac8654::t_7942dfc2f7fe80 1-77,95-132
+  s_c5dd2499ac8654::t_8d32eb2435797c 78-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "7d2a777e3a527ef9ad303c030902be175f8b42d4",
+  "prompts": {},
+  "sessions": {
+    "s_c5dd2499ac8654": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_eaf354ed-65a5-4952-80ce-8e0cf43b98d2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
